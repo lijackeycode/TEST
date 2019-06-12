@@ -7,6 +7,7 @@ public class Test {
 		
 		System.out.println("as");
 		System.out.println("hello21212");
+		System.out.println("wyl“ŸˆêŸà");
 	
 }
 }
